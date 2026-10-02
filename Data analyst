@@ -1,0 +1,113 @@
+# excel-Project-# Sales Performance Dashboard – Year 2014
+
+ ## Project Overview
+
+ The **Sales Performance Dashboard** is an interactive business intelligence dashboard developed to analyze sales performance for the year **2014**. The dashboard provides a consolidated view of sales by salesperson, monthly sales trends, product performance, sales ranges, and regional distribution.
+
+ The objective of this project is to transform sales data into an easy-to-understand visual report that helps users identify sales patterns, high-performing products, and variations in performance over time.
+
+ ## Dashboard Highlights
+
+ The dashboard reports a **total sales value of 18,307** for the selected reporting context. It provides multiple perspectives of the sales data through interactive charts and report filters.
+
+ ### 1\. Sales Performance by Salesperson
+
+ The salesperson analysis shows **Jan Kotas** with total sales of **18,307** in the displayed dashboard view.
+
+ The salesperson filter allows users to switch between different sales representatives and analyze their individual contribution to overall sales performance.
+
+ ### 2\. Monthly Sales Trend
+
+ The sales trend visualization presents the movement of sales throughout 2014.
+
+ Key observations from the displayed trend include:
+
+ - Sales were approximately **2K in January** and increased to around **3K in March**.
+- Sales dropped to approximately **0K during April and May**.
+- **June recorded the highest monthly sales**, at approximately **5K**.
+- Sales declined sharply in July before recovering gradually during August, September, and October.
+- November shows another decline.
+- Sales increased significantly in **December to approximately 4K**.
+
+ This trend highlights substantial month-to-month variation and identifies **June and December** as important periods in the displayed sales performance.
+
+ ### 3. Sales by Product
+
+ The product analysis identifies the products contributing to the displayed sales total:
+
+ | Product | Sales |
+| --- | --- |
+| Beer | 7,994 |
+| Fruit Cocktail | 6,942 |
+| Chocolate | 3,022 |
+| Chocolate Biscuits Mix | 350 |
+
+**Beer** represents the largest contribution among the products shown, followed by **Fruit Cocktail** and **Chocolate**. Chocolate Biscuits Mix contributes a comparatively smaller amount.
+
+ Together, Beer and Fruit Cocktail account for approximately **81.6% of the displayed total sales**, indicating that these two products make up a substantial share of the sales value in this dashboard view.
+
+ ### 4\. Sales Range Analysis
+
+ The sales-range visualization shows the displayed **18,307 total sales** within the **0–10,000 sales range category**.
+
+ This provides an additional way of segmenting and understanding the distribution of sales values.
+
+ ### 5\. Regional Analysis
+
+ The dashboard includes a **Region** report controller with the following regions:
+
+ - North
+- West
+- East
+- South
+
+ This filter enables users to interactively analyze the dashboard based on geographical sales regions and examine how regional selection affects the reported sales figures.
+
+ ## Key Insights
+
+ Based on the dashboard view:
+
+ - The displayed **grand total sales are 18,307**.
+- **June** is the highest-performing month in the displayed monthly trend, at approximately **5K**.
+- **December** shows another strong sales period, reaching approximately **4K**.
+- **Beer** is the highest-value product shown, generating **7,994** in sales.
+- **Fruit Cocktail** is the second-highest product, generating **6,942**. how raw sales information can be converted into an interactive dashboard that supports business analysis. Instead of reviewing individual records manually,
+- Beer and Fruit Cocktail together contribute the majority of the displayed sales.
+- The dashboard demonstrates significant fluctuations in monthly sales, including periods with very low or zero displayed sales.
+- Interactive salesperson and regional filters make it possible to explore performance from different business perspectives.
+
+ ## Dashboard Features
+
+ - Sales performance by salesperson
+- Monthly sales trend analysis
+- Product-level sales comparison
+- Sales-range distribution
+- Regional filtering
+- Interactive report controls
+- Grand-total sales indicators
+- Visual representation of key performance metrics
+
+ ## Tools and Technologies
+
+ This project focuses on **data visualization and business intelligence reporting**, using an interactive dashboard to present sales information in a structured format.
+
+ **Core concepts demonstrated:**
+
+ - Data analysis
+- Business intelligence
+- Sales performance analysis
+- Interactive filtering
+- KPI visualization
+- Trend analysis
+- Product performance analysis
+- Regional analysis
+
+ ## Project Purpose
+
+ The purpose of this project is to demonstrate how raw sales information can be converted into an interactive dashboard that supports business analysis. Instead of reviewing individual records manually, users can quickly identify sales trends, compare products, analyze salesperson performance, and explore regional results through visualizations.
+
+ ## Conclusion
+
+ The **Sales Performance Dashboard – 2014** provides a centralized view of sales performance and enables users to explore the data through multiple analytical dimensions. The dashboard highlights an overall sales value of **18,307**, strong contributions from **Beer and Fruit Cocktail**, and noticeable variation in monthly sales throughout the year.
+
+ This project demonstrates the practical application of dashboard-based analytics for converting sales data into clear, actionable business insights.
